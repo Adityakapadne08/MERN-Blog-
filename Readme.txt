@@ -5,3 +5,5 @@ value have to be unique such kind of info cant be
  changed further 
 
  *create test api route -best practise is to create other folder for each section of routes
+ *create signup func
+ *create middleware to handle err
